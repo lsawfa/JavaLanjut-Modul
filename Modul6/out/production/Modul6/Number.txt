@@ -1,0 +1,4 @@
+
+- Index ke-8 = -7.0
+- Index ke-56 = 189.0
+- Index ke-71 = 0.5
